@@ -1,4 +1,4 @@
-# Default Loan Prediction
+# Loan Default Prediction with Berka Dataset
 
 This is an end-to-end project building a classification model to predict loan default using the [Berka dataset](https://relational.fit.cvut.cz/dataset/Financial).
 
